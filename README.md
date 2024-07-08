@@ -1,6 +1,8 @@
 # TVAR
 Threshold Vector Autoregressive (TVAR) model Use TVAR With (In) R Software
 
+https://www.youtube.com/watch?v=d3Scn83dz_U
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
